@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehan99rs" alt="shehan99rs" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA,OOP,DBMS,INTERNET PROGRAMMING AND WEB TECHNOLOGY,DATA STRUCTURES AND ALGORITHMS,DATA COMMUNICATION AND COMPUTER NETWORK**
+- 🌱 I’m currently learning Computer Science, Applied Statistics, Mathematics.
 
 - 📫 How to reach me **ravindushehan.ob@gmail.com**
 
