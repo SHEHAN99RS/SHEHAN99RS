@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHEHAN</h1>
-<h3 align="center">I AM AN UNDERGRADUATE STUDENT AT THE UNIVERSITY OF RUHUNA, FACULTY OF SCIENCE, WITH A STRONG INTEREST IN PURSUING A CAREER IN THE FIELD OF DATA SCIENCE.</h3>
+<h3 align="center">I AM AN UNDERGRADUATE STUDENT AT THE UNIVERSITY OF RUHUNA, FACULTY OF SCIENCE, WITH A STRONG INTEREST IN PURSUING A CAREER IN THE FIELD OF DATA ENGINEERING.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehan99rs&label=Profile%20views&color=0e75b6&style=flat" alt="shehan99rs" /> </p>
 
